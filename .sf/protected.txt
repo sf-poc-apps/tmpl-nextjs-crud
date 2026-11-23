@@ -1,0 +1,6 @@
+.github/
+.sf/
+Dockerfile
+AGENTS.md
+sf-banner.js
+app/sf-banner.tsx
